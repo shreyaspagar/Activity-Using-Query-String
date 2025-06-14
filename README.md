@@ -1,1 +1,1 @@
-# Activity-Using-Query-String
+# Activity-Using-Query-String.
